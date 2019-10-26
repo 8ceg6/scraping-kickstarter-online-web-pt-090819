@@ -1,4 +1,4 @@
-student_info# require libraries/modules here
+# require libraries/modules here
 require "nokogiri"
 require 'pry'
 
